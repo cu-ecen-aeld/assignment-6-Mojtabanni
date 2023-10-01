@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Mojtabanni
-=======
 aesd-example
->>>>>>> yocto-assignments-base/master
